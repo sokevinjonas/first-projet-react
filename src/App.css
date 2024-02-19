@@ -1,0 +1,36 @@
+.app{
+  background-color: rgb(93, 92, 89);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.liste {
+  display:flex;
+  flex-direction: column;
+}
+.liste li{
+  margin-bottom: .5rem;
+  padding: 5px;
+}
+.liste li button {
+  background-color: rgb(247, 94, 39);
+  margin-left: 15px;
+}
+.formulaire {
+  padding: 15px;
+  justify-content: center;
+  align-items: center;
+}
+form {
+  display: flex;
+  width: 100px;
+  justify-content: space-around;
+  gap: 1.4rem;
+}
+form button {
+  background-color: green;
+  padding: 10px;
+  cursor: pointer;
+}
