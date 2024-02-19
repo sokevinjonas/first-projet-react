@@ -39,7 +39,11 @@ If you have any ideas for improvements, don't hesitate to create an issue or pro
 
 Go to the project directory:`
 
+<<<<<<< HEAD
      cd project_name
+=======
+     cd first-projet-react
+>>>>>>> 0ca1e7b92edfac732115eb900c290b79d5a0cac4
 
 `Install dependencies:`
 
