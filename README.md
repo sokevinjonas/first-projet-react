@@ -1,58 +1,58 @@
-# Todo Liste de Fruits en React
+# Todo Liste de Fruits in React
 
-Bienvenue dans ce projet simple mais instructif! 🍎🍌
+Welcome to this simple but instructive project! 🍎🍌
 
-## Description du Projet
+## Project description
 
-Ce projet est une implémentation simple d'une todo liste de fruits en utilisant React. Il démontre l'utilisation de composants, la gestion d'état et la réutilisabilité.
+This project is a simple implementation of a todo fruit list using React. It demonstrates the use of components, state management and reusability.
 
 ![alt text](<src/assets/Screenshot 2024-02-19 022212.png>)
 
-## Fonctionnalités 🙈
+## Features 🙈
 
-- Affichage Dynamique:
-  La liste des fruits est dynamiquement affichée grâce à l'utilisation du state React et du composant réutilisable Fruits.
+- Dynamic display:
+  The fruit list is dynamically displayed thanks to the use of state React and the reusable Fruits component.
 
-- Ajout Facile :
-  Le formulaire FruitForm permet d'ajouter rapidement de nouveaux fruits. Il est conçu pour être simple et efficace.
+- Easy addition :
+  The FruitForm form lets you quickly add new fruits. It's designed to be simple and efficient.
 
-- Suppression Intuitive :
-  La fonction handleDelete dans le composant principal App permet la suppression instantanée des fruits sélectionnés.
+- Intuitive deletion:
+  The handleDelete function in the main App component enables instant deletion of selected fruits.
 
-## Structuration du Code 🫥
+## Code structuring 🫥
 
-- Composant Principal (App.js) : Gère l'état global, la suppression de fruits et intègre les composants Fruits et FruitForm.
+- Main component (App.js): Manages global status, fruit deletion and integrates Fruits and FruitForm components.
 
-- Composant Fruits : Affiche chaque fruit avec un bouton de suppression. Réutilisé pour chaque élément de la liste.
+- Fruits component: Displays each fruit with a delete button. Reused for each item in the list.
 
-- Composant FruitForm : Gère le formulaire d'ajout de fruits pour une expérience utilisateur harmonieuse.
+- FruitForm component: Manages the fruit addition form for a seamless user experience.
 
-## Comment Contribuer? 🤔
+## How to contribute? 🤔
 
-Si vous avez des idées d'amélioration, n'hésitez pas à créer une issue ou à proposer une pull request. Vos contributions sont les bienvenues!
+If you have any ideas for improvements, don't hesitate to create an issue or propose a pull request. We welcome your contributions!
 
-## Comment Exécuter le Projet Localement?
+## How do I run the project locally?
 
-`Clonez le repository :`
+`Clone the repository :`
 
     git clone https://github.com/jonasdevpro/first-projet-react.git
 
-`Allez dans le répertoire du projet :`
+Go to the project directory:`
 
-     cd nom_du_projet
+     cd project_name
 
-`Installez les dépendances :`
+`Install dependencies:`
 
      npm install
 
-`Installation de validation de props`
+`Install props validation
 
     npm install prop-types
 
-`Lancez l'application :`
+`Launch application:`
 
      npm start
 
-## Merci ❤️
+## Thank you ❤️
 
 <video controls src="src/assets/presenation_projet_fruit.mp4" title="Title"></video>
