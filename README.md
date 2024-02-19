@@ -37,7 +37,7 @@ If you have any ideas for improvements, don't hesitate to create an issue or pro
 
     git clone https://github.com/jonasdevpro/first-projet-react.git
 
-Go to the project directory:`
+`Go to the project directory:`
 
      cd first-projet-react
 
@@ -45,7 +45,7 @@ Go to the project directory:`
 
      npm install
 
-`Install props validation
+`Install props validation:`
 
     npm install prop-types
 
