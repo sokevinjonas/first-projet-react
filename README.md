@@ -39,7 +39,7 @@ Si vous avez des idées d'amélioration, n'hésitez pas à créer une issue ou �
 
 `Allez dans le répertoire du projet :`
 
-     cd nom_du_projet
+     cd first-projet-react
 
 `Installez les dépendances :`
 
